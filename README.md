@@ -1,53 +1,62 @@
-# Donghee
+# Hi, I'm Donghee 👋
 
-### Robotics & Machine Vision Developer
+### 🤖 Robotics & Machine Vision Developer | ROS 2
 
-I build **machine vision and robotic systems** that connect computer vision,
-AI, and real-world hardware.
+I'm a developer working at the intersection of **Machine Vision, Computer Vision, and Robotics**.
 
-Currently working as a **Machine Vision Developer** and conducting undergraduate
-research in robotics at **AIRO Lab, Hanyang University ERICA**.
+I enjoy building systems that connect **vision algorithms, AI, and real-world robotic hardware** — 
+from industrial vision inspection to autonomous robots and robot manipulation.
 
-My interests include **robot perception, autonomous systems, vision inspection,
-and robot manipulation**.
+- 🔭 Currently working as a **Machine Vision Developer**
+- 🔬 Undergraduate Researcher at **AIRO Lab, Hanyang University ERICA**
+- 🤖 Interested in **Robot Perception, Manipulation, and Autonomous Systems**
+- 👁️ Working with **Computer Vision, Deep Learning, and Industrial Vision**
+- 🦾 Building and experimenting with real-world robotic systems using **ROS 2**
 
 ---
 
-## Experience
+## 🎓 Education
 
-### 🔬 Undergraduate Researcher — AIRO Lab
-**Hanyang University ERICA** · Feb. 2026 – Present
+### Hanyang University ERICA
+
+**School of Smart Convergence Engineering**  
+**Major in Robotics & Convergence**
+
+📅 Mar. 2022 – Feb. 2027 (Expected)
+
+---
+
+## 🔬 Research Experience
+
+### Undergraduate Researcher — AIRO Lab
+**Hanyang University ERICA**  
+📅 Feb. 2026 – Present
 
 - Developing and experimenting with **ROS 2-based robotic systems**
 - Working with **robot manipulation, motion planning, and perception**
 - Integrating cameras, sensors, and robotic hardware
 - Developing and testing software on physical robot platforms
 
-### 💼 Machine Vision Developer
-
-- Developing industrial **machine vision and vision inspection systems**
-- Camera integration and image acquisition
-- Image processing and computer vision
-- AI-based object detection
-- Industrial automation software
-- Hardware–software integration
-
 ---
 
-## Education
+## 💼 Professional Experience
 
-### 🎓 Hanyang University ERICA
+### Machine Vision Developer
 
-**School of Smart Convergence Engineering**  
-**Major in Robotics & Convergence**
+Development of industrial **machine vision and vision inspection systems**.
 
-Mar. 2022 – Feb. 2027 (Expected)
+- 👁️ Image processing and computer vision
+- 📷 Camera integration and image acquisition
+- 🔍 Vision inspection software development
+- 🧠 AI-based object detection
+- ⚙️ Industrial automation software
+- 🔧 Hardware–software integration
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Robotics
+### 🤖 Robotics
 
 ![ROS2](https://img.shields.io/badge/ROS%202-22314E?style=flat-square&logo=ros&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
@@ -55,7 +64,7 @@ Mar. 2022 – Feb. 2027 (Expected)
 
 `ROS 2` `MoveIt 2` `Nav2` `SLAM` `Robot Manipulation`
 
-### Computer Vision & AI
+### 👁️ Computer Vision & AI
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -63,13 +72,13 @@ Mar. 2022 – Feb. 2027 (Expected)
 
 `OpenCV` `YOLO` `PyTorch` `TensorRT` `OCR` `Image Processing`
 
-### Languages
+### 💻 Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
-### Software & Frameworks
+### ⚙️ Software & Frameworks
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -78,7 +87,7 @@ Mar. 2022 – Feb. 2027 (Expected)
 
 `Avalonia` `MVVM` `FastAPI` `MQTT` `TCP/IP`
 
-### Hardware & Platforms
+### 🔧 Hardware & Platforms
 
 ![NVIDIA](https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
@@ -87,7 +96,7 @@ Mar. 2022 – Feb. 2027 (Expected)
 
 ---
 
-# Projects
+# 🚀 Featured Projects
 
 ## 🧯 TETRA — Autonomous Fire Extinguisher Inspection Robot
 
@@ -96,9 +105,8 @@ Mar. 2022 – Feb. 2027 (Expected)
 An autonomous mobile robot designed to perform **fire extinguisher inspection
 in large indoor environments**.
 
-TETRA combines autonomous navigation with computer vision and deep learning
-to locate and inspect fire extinguishers, including pressure gauge analysis
-and manufacturing-date recognition.
+TETRA combines **autonomous navigation, computer vision, and deep learning**
+to locate and inspect fire extinguishers automatically.
 
 ### 🎥 Demo
 
@@ -108,20 +116,20 @@ and manufacturing-date recognition.
        width="600">
 </a>
 
-▶ **Click the image to watch the demonstration**
+▶️ **Click the image above to watch TETRA in action**
 
-### Key Features
+### ✨ Key Features
 
-- Autonomous navigation using **ROS 2 & Nav2**
-- LiDAR-based localization and obstacle avoidance
-- Fire extinguisher detection using **YOLO**
-- Manufacturing-date recognition using **OCR**
-- Pressure gauge analysis using **OpenCV**
-- Multi-camera inspection system
-- Autonomous waypoint navigation
-- Embedded deployment on **NVIDIA Jetson**
+- 🗺️ Autonomous navigation using **ROS 2 & Nav2**
+- 📡 LiDAR-based localization and obstacle avoidance
+- 🔥 Fire extinguisher detection using **YOLO**
+- 🔎 Manufacturing-date recognition using **OCR**
+- 📊 Pressure gauge analysis using **OpenCV**
+- 📷 Multi-camera inspection system
+- 🧭 Autonomous waypoint navigation
+- ⚡ Embedded deployment on **NVIDIA Jetson**
 
-### System Overview
+### 🧩 System Overview
 
 ```text
                  ┌──────────────┐
