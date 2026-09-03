@@ -16,21 +16,38 @@ from industrial vision inspection to autonomous robots and robot manipulators.
 - 🦾 Working with **ROS 2, MoveIt 2, Nav2, and Universal Robots**
 - 👁️ Developing vision systems using **OpenCV, YOLO, and PyTorch**
 - ⚙️ Experience with both software and real-world hardware integration
-- 🌱 Currently exploring advanced **robot perception and manipulation**
+- 🌱 Currently exploring **robot perception and manipulation**
 
 ---
 
 ## 🎓 Education
 
-**Hanyang University ERICA**  
-Robotics Engineering
+### Hanyang University ERICA
+**School of Smart Convergence Engineering**  
+**Major in Robotics & Convergence**
 
-- Undergraduate research experience in Robotics
-- Projects involving autonomous robots, computer vision, and AI
+📅 Mar. 2022 – Feb. 2027 (Expected)
+
+- Studying robotics with a focus on the convergence of **mechanical, electrical, electronic, and software engineering**
+- Coursework and projects in **robotics, computer vision, AI, control, and autonomous systems**
 
 ---
 
-## 💼 Experience
+## 🔬 Research Experience
+
+### Undergraduate Researcher — AIRO Lab
+**Hanyang University ERICA**  
+📅 Feb. 2026 – Present
+
+- Research and development in **Robotics & Computer Vision**
+- Development and experimentation with **ROS 2-based robotic systems**
+- Experience with autonomous navigation and robot perception
+- Integration of **cameras, LiDAR, sensors, and embedded computing platforms**
+- Development and testing on real-world robotic hardware
+
+---
+
+## 💼 Professional Experience
 
 ### Machine Vision Developer
 
@@ -88,7 +105,9 @@ Development of industrial machine vision and vision inspection systems.
 
 ## 🧯 TETRA — Autonomous Fire Extinguisher Inspection Robot
 
-Autonomous mobile robot developed as a graduation project for
+**Graduation Project | Hanyang University ERICA**
+
+Autonomous mobile robot developed for
 **fire extinguisher inspection in large indoor environments**.
 
 The system autonomously navigates through the environment and performs
@@ -110,3 +129,7 @@ visual inspection of fire extinguishers using computer vision and AI.
 - 📷 Multi-camera inspection system
 - 🧭 Autonomous waypoint navigation
 - 💡 Integrated illumination for stable vision inspection
+
+### Tech Stack
+
+`ROS 2` `Nav2` `Python` `OpenCV` `YOLO` `PyTorch` `OCR` `LiDAR` `NVIDIA Jetson`
