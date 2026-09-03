@@ -1,4 +1,4 @@
-# Hi, I'm Donghee 👋
+# Hi, I'm Donghui 👋
 
 ### 🤖 Robotics & Machine Vision Developer | ROS 2
 
