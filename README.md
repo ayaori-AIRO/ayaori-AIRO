@@ -170,6 +170,7 @@ to locate and inspect fire extinguishers automatically.
              └─────────┬─────────┘
                        ▼
                 Inspection Result
+```
 
 ---
 
