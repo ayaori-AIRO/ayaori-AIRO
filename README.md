@@ -174,15 +174,19 @@ to locate and inspect fire extinguishers automatically.
 
 ---
 
+---
+
 ## 📫 Contact
 
 Feel free to reach out if you'd like to connect or discuss **robotics, machine vision, or computer vision**.
 
 <a href="mailto:jdh9378@hanyang.ac.kr">
-  <img src="https://img.shields.io/badge/Email-jdh9378%40hanyang.ac.kr-EA4335?style=flat-square&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Email-jdh9378%40hanyang.ac.kr-0078D4?style=flat-square&logo=minutemailer&logoColor=white"
+       alt="Email">
 </a>
 <a href="https://www.instagram.com/ayaori_hui/">
-  <img src="https://img.shields.io/badge/Instagram-%40ayaori__hui-E4405F?style=flat-square&logo=instagram&logoColor=white">
+  <img src="https://img.shields.io/badge/Instagram-%40ayaori__hui-E4405F?style=flat-square&logo=instagram&logoColor=white"
+       alt="Instagram">
 </a>
 
 📍 South Korea
